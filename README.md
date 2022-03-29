@@ -4,6 +4,8 @@
 <h3 align="center">
   <img src="https://www.uiu.ac.bd/wp-content/uploads/2018/03/sebl_logo.jpg" alt="South East Bank" style="width:200px;height:auto;">
 </h3>
+<meta name="keywords"
+        content="mehedi goni, cybersource, south east bank pg cybersource, visa payment gateway, south east bank, southeastbank cybersource" />
 
 # South East Bank PG - WooCommerce CyberSource Plugins
 
