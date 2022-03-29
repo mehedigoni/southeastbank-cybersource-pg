@@ -2,7 +2,7 @@
   <img src="https://skyloft.sfo3.cdn.digitaloceanspaces.com/Repos/woo-cyber.jpg" alt="Cybersource">
 </h1>
 <h3 align="center">
-  <img src="https://www.uiu.ac.bd/wp-content/uploads/2018/03/sebl_logo.jpg" alt="South East Bank" style="width:100px;height:auto;">
+  <img src="https://www.uiu.ac.bd/wp-content/uploads/2018/03/sebl_logo.jpg" alt="South East Bank" style="width:200px;height:auto;">
 </h3>
 
 # South East Bank PG - WooCommerce CyberSource Plugins
