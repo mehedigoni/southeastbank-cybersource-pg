@@ -1,4 +1,4 @@
-# WooCommerce CyberSource SA-WM Plugins
+# South East Bank PG - WooCommerce CyberSource SA-WM Plugins
 
 ## Installation
 
